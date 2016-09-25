@@ -1,0 +1,18 @@
+Como a visualização de um diff entre duas 
+versões de um arquivo ajuda você a ver o bug 
+que foi introduzido?
+
+Ajuda bastante pois com o diff conseguimos ver
+com muito mais agilidade a diferença entre os arquivos.
+
+Windows
+FC old_file.txt new_file.txt
+
+Mac/Linux/Bash
+DIFF -u old_file.txt new_file.txt
+
+Como ter fácil acesso a todo o histórico de um arquivo pode torná-lo um programador mais eficiente no longo prazo?
+
+Com um facil acesso ao historico, posso fazer uma linha do tempo
+para ver a evolução do sistema/algoritimo ou até mesmo ter acesso
+a soluções criadas no passado que podem resolver o mesmo problema no futuro

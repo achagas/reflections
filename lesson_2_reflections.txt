@@ -1,0 +1,10 @@
+O que acontece ao iniciar um repositório? Por que você precisa fazer isso?
+
+Você também pode querer executar git status depois de criar o arquivo. Você deve ver que agora os dois arquivos estão listados como não rastreados.
+
+
+Em que se difere a área de preparação do diretório de trabalho e do repositório? Qual valor você acha que ela oferece?
+
+A are ade preparação difere do diretorio de trabalho e do repositorio, pelo fato de ela ser uma area de transição, onde os arquivos ainda não estão commitados.
+
+O benefico dessa area é que podemos efetuar alterações, em relação a alguns arquivos antes de efetuar o commit de fato no repositorio.
