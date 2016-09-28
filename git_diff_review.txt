@@ -1,0 +1,6 @@
+git diff - compara working directory com staging area
+git dif --staged - compara staging area com o commit mais recente do repositorio
+git diff commit1 commit2 - compara as alterações feitas entre um commit e outro
+git reset --hard - descarta alterações da staging area e working directory não é reversivel
+git branch -d nome-do-branch - Excluir um branch criado
+git merge - comando para juntar dois branchs combinando suas diferenças
