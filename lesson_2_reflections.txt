@@ -8,3 +8,10 @@ Em que se difere a área de preparação do diretório de trabalho e do repositório?
 A are ade preparação difere do diretorio de trabalho e do repositorio, pelo fato de ela ser uma area de transição, onde os arquivos ainda não estão commitados.
 
 O benefico dessa area é que podemos efetuar alterações, em relação a alguns arquivos antes de efetuar o commit de fato no repositorio.
+
+Reflexão: tamanho do commit
+Como você pode usar a área de preparação para garantir que tenha um commit por alteração lógica?
+Após fazer uma alteração logica posso colocar as alterações na staging area e comparar com o commit mais recente do repositorio, garantindo assim uma alterações logica por commit.
+
+Qual é o resultado da mesclagem de dois branches? Por que o representamos no diagrama dessa forma?
+é a união de dois caminhos (branches) para a atualizações de alterações feitas de forma separadas.
