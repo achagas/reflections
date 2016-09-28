@@ -4,3 +4,7 @@ git diff commit1 commit2 - compara as alterações feitas entre um commit e outro
 git reset --hard - descarta alterações da staging area e working directory não é reversivel
 git branch -d nome-do-branch - Excluir um branch criado
 git merge - comando para juntar dois branchs combinando suas diferenças
+git remote - verificar se já existe algum remote no repositorio local
+git remote -v - verificar o remote com informações a mais
+git remote add origin url-do-remote - Cria um remote para um repositorio
+git push origin nome-do-branch - Envia para o github os arquivos
